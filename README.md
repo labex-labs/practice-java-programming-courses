@@ -14,8 +14,6 @@ Java is a general-purpose programming language that is class-based, object-orien
 
 ## More Courses
 
-## More Courses
-
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
 - [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
