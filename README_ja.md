@@ -12,8 +12,8 @@ Java は多用途でオブジェクト指向のプログラミング言語です
 
 |   インデックス | 名前                                                                         | 難易度   | Repo                                                           | 練習                                                               |
 |----------------|------------------------------------------------------------------------------|----------|----------------------------------------------------------------|--------------------------------------------------------------------|
-|              1 | [Java のクイックスタート](https://labex.io/ja/courses/quick-start-with-java) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-java) |
-|              2 | [Java プログラミング演習](https://labex.io/ja/courses/java-exercises)        | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 ラボを開始](https://labex.io/ja/courses/java-exercises)        |
+|              1 | [Java のクイックスタート](https://labex.io/ja/courses/quick-start-with-java) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-java) |
+|              2 | [Java プログラミング演習](https://labex.io/ja/courses/java-exercises)        | 初級     | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 ラボを開始](https://labex.io/ja/courses/java-exercises)        |
 
 ## その他
 
