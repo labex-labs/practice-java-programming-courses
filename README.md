@@ -12,8 +12,8 @@ Java is a versatile, object - oriented programming language. This Skill Tree off
 
 |   Index | Name                                                                    | Difficulty   | Repo                                                           | Practice                                                       |
 |---------|-------------------------------------------------------------------------|--------------|----------------------------------------------------------------|----------------------------------------------------------------|
-|       1 | [Quick Start with Java](https://labex.io/courses/quick-start-with-java) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-java) |
-|       2 | [Java Programming Exercises](https://labex.io/courses/java-exercises)   | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Start Lab](https://labex.io/courses/java-exercises)        |
+|       1 | [Quick Start with Java](https://labex.io/courses/quick-start-with-java) | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-java) |
+|       2 | [Java Programming Exercises](https://labex.io/courses/java-exercises)   | Beginner     | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Start Lab](https://labex.io/courses/java-exercises)        |
 
 ## More
 
