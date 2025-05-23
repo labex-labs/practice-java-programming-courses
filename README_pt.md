@@ -12,8 +12,8 @@ Java é uma linguagem de programação versátil e orientada a objetos. Esta Ski
 
 |   Índice | Nome                                                                         | Dificuldade   | Repo                                                           | Prática                                                             |
 |----------|------------------------------------------------------------------------------|---------------|----------------------------------------------------------------|---------------------------------------------------------------------|
-|        1 | [Início Rápido com Java](https://labex.io/pt/courses/quick-start-with-java)  | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-java) |
-|        2 | [Exercícios de Programação Java](https://labex.io/pt/courses/java-exercises) | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Iniciar Lab](https://labex.io/pt/courses/java-exercises)        |
+|        1 | [Início Rápido com Java](https://labex.io/pt/courses/quick-start-with-java)  | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-java) |
+|        2 | [Exercícios de Programação Java](https://labex.io/pt/courses/java-exercises) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Iniciar Lab](https://labex.io/pt/courses/java-exercises)        |
 
 ## Mais
 
