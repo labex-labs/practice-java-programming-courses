@@ -12,8 +12,8 @@ Java 是一种通用的面向对象编程语言。此技能树为掌握 Java 提
 
 |   序号 | 名称                                                               | 难度   | Repo                                                           | 练习                                                             |
 |--------|--------------------------------------------------------------------|--------|----------------------------------------------------------------|------------------------------------------------------------------|
-|      1 | [Java 快速入门](https://labex.io/zh/courses/quick-start-with-java) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-java) |
-|      2 | [Java 编程练习](https://labex.io/zh/courses/java-exercises)        | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 开始实验](https://labex.io/zh/courses/java-exercises)        |
+|      1 | [Java 快速入门](https://labex.io/zh/courses/quick-start-with-java) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-java) |
+|      2 | [Java 编程练习](https://labex.io/zh/courses/java-exercises)        | 初级   | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 开始实验](https://labex.io/zh/courses/java-exercises)        |
 
 ## 更多
 
