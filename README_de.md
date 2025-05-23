@@ -12,8 +12,8 @@ Java ist eine vielseitige, objektorientierte Programmiersprache. Dieser Skill Tr
 
 |   Index | Name                                                                       | Schwierigkeit   | Repo                                                           | Übung                                                                 |
 |---------|----------------------------------------------------------------------------|-----------------|----------------------------------------------------------------|-----------------------------------------------------------------------|
-|       1 | [Schnellstart mit Java](https://labex.io/de/courses/quick-start-with-java) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-java) |
-|       2 | [Java-Programmierübungen](https://labex.io/de/courses/java-exercises)      | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Labor Starten](https://labex.io/de/courses/java-exercises)        |
+|       1 | [Schnellstart mit Java](https://labex.io/de/courses/quick-start-with-java) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-java) |
+|       2 | [Java-Programmierübungen](https://labex.io/de/courses/java-exercises)      | Anfänger        | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Labor Starten](https://labex.io/de/courses/java-exercises)        |
 
 ## Mehr
 
