@@ -12,8 +12,8 @@ Java - это универсальный объектно-ориентирова
 
 |   Индекс | Название                                                                             | Сложность   | Repo                                                           | Практика                                                                   |
 |----------|--------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------|----------------------------------------------------------------------------|
-|        1 | [Быстрый старт с Java](https://labex.io/ru/courses/quick-start-with-java)            | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-java) |
-|        2 | [Упражнения по программированию на Java](https://labex.io/ru/courses/java-exercises) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Начать Лабораторию](https://labex.io/ru/courses/java-exercises)        |
+|        1 | [Быстрый старт с Java](https://labex.io/ru/courses/quick-start-with-java)            | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-java) |
+|        2 | [Упражнения по программированию на Java](https://labex.io/ru/courses/java-exercises) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Начать Лабораторию](https://labex.io/ru/courses/java-exercises)        |
 
 ## Больше
 
