@@ -12,8 +12,8 @@ Java 는 다재다능한 객체 지향 프로그래밍 언어입니다. 이 스�
 
 |   인덱스 | 이름                                                                    | 난이도   | Repo                                                           | 연습                                                              |
 |----------|-------------------------------------------------------------------------|----------|----------------------------------------------------------------|-------------------------------------------------------------------|
-|        1 | [Java 퀵 스타트](https://labex.io/ko/courses/quick-start-with-java)     | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-java) |
-|        2 | [Java 프로그래밍 연습 문제](https://labex.io/ko/courses/java-exercises) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 실습 시작](https://labex.io/ko/courses/java-exercises)        |
+|        1 | [Java 퀵 스타트](https://labex.io/ko/courses/quick-start-with-java)     | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-java) |
+|        2 | [Java 프로그래밍 연습 문제](https://labex.io/ko/courses/java-exercises) | 초급     | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 실습 시작](https://labex.io/ko/courses/java-exercises)        |
 
 ## 더 보기
 
