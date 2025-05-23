@@ -12,8 +12,8 @@ Java est un langage de programmation polyvalent et orienté objet. Cet arbre de 
 
 |   Index | Nom                                                                             | Difficulté   | Repo                                                           | Pratique                                                                 |
 |---------|---------------------------------------------------------------------------------|--------------|----------------------------------------------------------------|--------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec Java](https://labex.io/fr/courses/quick-start-with-java) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-java) |
-|       2 | [Exercices de programmation Java](https://labex.io/fr/courses/java-exercises)   | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Commencer le Lab](https://labex.io/fr/courses/java-exercises)        |
+|       1 | [Démarrage rapide avec Java](https://labex.io/fr/courses/quick-start-with-java) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-java) |
+|       2 | [Exercices de programmation Java](https://labex.io/fr/courses/java-exercises)   | Débutant     | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Commencer le Lab](https://labex.io/fr/courses/java-exercises)        |
 
 ## Plus
 
