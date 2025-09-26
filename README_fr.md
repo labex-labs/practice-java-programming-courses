@@ -8,12 +8,12 @@
 <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 </div>
 
-Java est un langage de programmation polyvalent et orienté objet. Cet arbre de compétences propose un parcours d'apprentissage complet pour maîtriser Java. Idéal pour les débutants, il offre une feuille de route structurée pour comprendre les concepts de la POO, la syntaxe Java et le développement d'applications. Grâce à des cours pratiques sans vidéo et des exercices de codage dans un environnement Java interactif, vous acquerrez une expérience concrète dans la création d'applications Java.
+Apprenez Java, un langage de programmation polyvalent et orienté objet, grâce à ce parcours d'apprentissage complet. Conçus pour les débutants, ces cours Java offrent une feuille de route structurée pour maîtriser les concepts de la POO, la syntaxe Java et le développement d'applications. Acquérez une expérience concrète en créant des applications Java grâce à des exercices de codage pratiques et interactifs dans un environnement Java dédié.
 
-|   Index | Nom                                                                             | Difficulté   | Repo                                                           | Pratique                                                                 |
-|---------|---------------------------------------------------------------------------------|--------------|----------------------------------------------------------------|--------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec Java](https://labex.io/fr/courses/quick-start-with-java) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-java) |
-|       2 | [Exercices de programmation Java](https://labex.io/fr/courses/java-exercises)   | Débutant     | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Commencer le Lab](https://labex.io/fr/courses/java-exercises)        |
+|   Index | Nom                                                                           | Difficulté   | Repo                                                        | Pratique                                                              |
+|---------|-------------------------------------------------------------------------------|--------------|-------------------------------------------------------------|-----------------------------------------------------------------------|
+|       1 | [Java pour débutants](https://labex.io/fr/courses/java-for-beginners)         | Débutant     | [🔗 Repo](https://github.com/labex-labs/java-for-beginners) | [🚀 Commencer le Lab](https://labex.io/fr/courses/java-for-beginners) |
+|       2 | [Exercices de programmation Java](https://labex.io/fr/courses/java-exercises) | Débutant     | [🔗 Repo](https://github.com/labex-labs/java-exercises)     | [🚀 Commencer le Lab](https://labex.io/fr/courses/java-exercises)     |
 
 ## Plus
 
