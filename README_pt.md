@@ -8,12 +8,12 @@
 <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 </div>
 
-Java é uma linguagem de programação versátil e orientada a objetos. Esta Skill Tree oferece um caminho de aprendizado abrangente para dominar Java. Ideal para iniciantes, fornece um roteiro estruturado para compreender os conceitos de POO, a sintaxe Java e o desenvolvimento de aplicações. Através de cursos práticos, sem vídeos, e exercícios de codificação em um playground Java interativo, você obterá experiência do mundo real na construção de aplicações Java.
+Aprenda Java, uma linguagem de programação versátil e orientada a objetos, com este caminho de aprendizagem abrangente. Projetados para iniciantes, estes cursos de Java fornecem um roteiro estruturado para dominar conceitos de POO, sintaxe Java e desenvolvimento de aplicações. Ganhe experiência no mundo real construindo aplicações Java através de exercícios práticos de codificação em um ambiente interativo de Java.
 
-|   Índice | Nome                                                                         | Dificuldade   | Repo                                                           | Prática                                                             |
-|----------|------------------------------------------------------------------------------|---------------|----------------------------------------------------------------|---------------------------------------------------------------------|
-|        1 | [Início Rápido com Java](https://labex.io/pt/courses/quick-start-with-java)  | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-java) |
-|        2 | [Exercícios de Programação Java](https://labex.io/pt/courses/java-exercises) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 Iniciar Lab](https://labex.io/pt/courses/java-exercises)        |
+|   Índice | Nome                                                                         | Dificuldade   | Repo                                                        | Prática                                                          |
+|----------|------------------------------------------------------------------------------|---------------|-------------------------------------------------------------|------------------------------------------------------------------|
+|        1 | [Java para Iniciantes](https://labex.io/pt/courses/java-for-beginners)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/java-for-beginners) | [🚀 Iniciar Lab](https://labex.io/pt/courses/java-for-beginners) |
+|        2 | [Exercícios de Programação Java](https://labex.io/pt/courses/java-exercises) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/java-exercises)     | [🚀 Iniciar Lab](https://labex.io/pt/courses/java-exercises)     |
 
 ## Mais
 
