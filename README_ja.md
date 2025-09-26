@@ -8,12 +8,12 @@
 <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 </div>
 
-Java は多用途でオブジェクト指向のプログラミング言語です。このスキルツリーは、Java を習得するための包括的な学習パスを提供します。初心者に最適で、OOP の概念、Java の構文、アプリケーション開発を理解するための構造化されたロードマップを提供します。実践的な非ビデオコースとインタラクティブな Java プレイグラウンドでのコーディング演習を通じて、Java アプリケーションの構築における実践的な経験を得ることができます。
+多用途でオブジェクト指向のプログラミング言語である Java を、この包括的な学習パスで習得しましょう。初心者向けに設計されたこれらの Java コースは、OOP の概念、Java の構文、およびアプリケーション開発を習得するための体系的なロードマップを提供します。インタラクティブな Java プレイグラウンドでの実践的なコーディング演習を通じて Java アプリケーションを構築することで、実世界の経験を積むことができます。
 
-|   インデックス | 名前                                                                         | 難易度   | Repo                                                           | 練習                                                               |
-|----------------|------------------------------------------------------------------------------|----------|----------------------------------------------------------------|--------------------------------------------------------------------|
-|              1 | [Java のクイックスタート](https://labex.io/ja/courses/quick-start-with-java) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-java) |
-|              2 | [Java プログラミング演習](https://labex.io/ja/courses/java-exercises)        | 初級     | [🔗 Repo](https://github.com/labex-labs/java-exercises)        | [🚀 ラボを開始](https://labex.io/ja/courses/java-exercises)        |
+|   インデックス | 名前                                                                  | 難易度   | Repo                                                        | 練習                                                            |
+|----------------|-----------------------------------------------------------------------|----------|-------------------------------------------------------------|-----------------------------------------------------------------|
+|              1 | [初心者向け Java](https://labex.io/ja/courses/java-for-beginners)     | 初級     | [🔗 Repo](https://github.com/labex-labs/java-for-beginners) | [🚀 ラボを開始](https://labex.io/ja/courses/java-for-beginners) |
+|              2 | [Java プログラミング演習](https://labex.io/ja/courses/java-exercises) | 初級     | [🔗 Repo](https://github.com/labex-labs/java-exercises)     | [🚀 ラボを開始](https://labex.io/ja/courses/java-exercises)     |
 
 ## その他
 
